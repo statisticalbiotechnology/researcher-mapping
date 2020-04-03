@@ -1,0 +1,25 @@
+.word_tooltip {
+    position: absolute;
+    font-size: 22px !important;
+    border: 5px solid blue;
+    background-color: white;
+    padding: 2px;
+    border-radius: 20px;
+    overflow-y: scroll;
+    height: 300px;
+    
+  }
+
+  .author_tooltip {
+    position: absolute;
+    font-size: 22px !important;
+    border: 5px solid red;
+    background-color: white;
+    padding: 2px;
+    border-radius: 20px;
+    overflow-y: scroll;
+    height: 100px;
+    width: 500px;
+    top:0;
+
+  }
